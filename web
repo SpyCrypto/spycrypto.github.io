@@ -1,0 +1,11 @@
+SpyCrypto.github.io
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── logo.svg
+│   ├── hero.jpg
+│   └── icons/
+├── README.md
+└── CNAME
